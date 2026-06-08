@@ -1,0 +1,501 @@
+session_id,user_id,session_date,session_time,user_type,device_type,checkout_type,stage_reached,drop_off_stage,completed_order,items_in_cart,cart_value_usd,time_browse_sec,time_cart_sec,time_checkout_sec,time_payment_sec,total_session_time_sec,promo_code_used,payment_method,order_id,order_value_usd
+S00001,U9279,3/22/2024,9:13:14,Returning,Mobile Web,Registered Login,Add to Cart,Add to Cart,No,1,53.65,74,85,94,0,253,Yes,,,
+S00002,U4527,3/18/2024,13:17:09,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,2,38.64,172,10,100,0,282,No,,,
+S00003,U5803,3/19/2024,14:05:35,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,3,62.26,265,78,91,0,434,No,,,
+S00004,U6977,3/20/2024,14:17:29,New,Desktop Web,Registered Login,Account Login/Register,Account Login/Register,No,1,52.63,178,20,119,0,317,No,,,
+S00005,U4598,3/21/2024,14:17:59,Returning,iOS App,Registered Login,Payment,Payment,No,6,13.7,117,78,122,0,317,Yes,,,
+S00006,U8517,3/22/2024,15:25:56,Returning,Mobile Web,Registered Login,Order Confirmed,None,Yes,1,62.12,235,44,76,47,402,No,PayPal,ORD51245,61
+S00007,U2489,3/23/2024,10:32:31,Returning,iOS App,Registered Login,View Cart,View Cart,No,5,37.27,234,56,68,0,358,No,,,
+S00008,U2876,3/24/2024,8:43:46,New,iOS App,Registered Login,Order Confirmed,None,Yes,6,36.85,62,59,157,96,374,No,PayPal,ORD82512,39.77
+S00009,U2743,3/25/2024,20:11:32,New,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,3,37.68,262,10,127,0,399,No,,,
+S00010,U6038,3/26/2024,9:59:23,Returning,Android App,Registered Login,Add to Cart,Add to Cart,No,2,44.59,30,86,81,0,197,No,,,
+S00011,U9645,3/27/2024,16:10:16,Returning,Desktop Web,Registered Login,Add to Cart,Add to Cart,No,4,62.85,94,26,124,0,244,No,,,
+S00012,U4681,3/28/2024,15:07:15,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,2,56.04,234,57,172,0,463,No,,,
+S00013,U9423,3/29/2024,21:21:04,Returning,Android App,Registered Login,View Cart,View Cart,No,1,55.71,60,39,48,0,147,No,,,
+S00014,U6804,3/30/2024,9:42:27,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,5,47.02,154,70,164,0,388,No,,,
+S00015,U7912,3/31/2024,16:28:08,Returning,Desktop Web,Registered Login,Order Confirmed,None,Yes,6,73.94,80,17,163,113,373,No,Google Pay,ORD42591,72.37
+S00016,U7570,4/1/2024,15:30:13,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,5,15.45,37,21,120,0,178,Yes,,,
+S00017,U9883,4/2/2024,8:37:47,Returning,iOS App,Registered Login,Payment,Payment,No,4,27.82,279,29,108,0,416,No,,,
+S00018,U4853,4/3/2024,9:43:55,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,5,19.38,290,20,107,0,417,Yes,,,
+S00019,U5351,4/4/2024,19:20:15,Returning,Desktop Web,Registered Login,Account Login/Register,Account Login/Register,No,5,14.4,297,50,126,0,473,No,,,
+S00020,U6718,4/5/2024,12:08:59,Returning,Android App,Registered Login,Payment,Payment,No,1,9.6,81,19,197,0,297,No,,,
+S00021,U3546,4/6/2024,22:06:47,New,Android App,Registered Login,Order Confirmed,None,Yes,5,55.42,300,11,230,90,631,No,Apple Pay,ORD27601,54.85
+S00022,U1058,4/7/2024,21:17:02,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,3,42.35,158,16,83,0,257,No,,,
+S00023,U9938,4/8/2024,19:57:09,New,Android App,Registered Login,Account Login/Register,Account Login/Register,No,5,55.56,34,24,79,0,137,No,,,
+S00024,U3532,4/9/2024,22:55:26,New,Android App,Registered Login,Order Confirmed,None,Yes,2,11.75,216,15,151,46,428,No,Apple Pay,ORD56357,12.54
+S00025,U3608,4/10/2024,20:15:17,New,Desktop Web,Registered Login,Enter Delivery Details,Enter Delivery Details,No,1,20.83,200,62,231,0,493,No,,,
+S00026,U2137,4/11/2024,14:21:17,Returning,Desktop Web,Registered Login,View Cart,View Cart,No,4,32.07,146,38,43,0,227,No,,,
+S00027,U8119,4/12/2024,12:02:06,Returning,Android App,Registered Login,Enter Delivery Details,Enter Delivery Details,No,3,70.98,89,43,105,0,237,No,,,
+S00028,U9821,4/13/2024,8:33:59,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,4,68.36,127,42,71,0,240,No,,,
+S00029,U5920,4/14/2024,9:46:57,New,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,1,71.62,199,89,140,0,428,No,,,
+S00030,U1006,4/15/2024,14:35:53,Returning,Android App,Registered Login,View Cart,View Cart,No,2,21.65,224,32,118,0,374,No,,,
+S00031,U2389,4/16/2024,20:47:10,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,4,38.15,139,75,181,0,395,No,,,
+S00032,U2193,4/17/2024,11:30:39,New,Android App,Registered Login,Enter Delivery Details,Enter Delivery Details,No,2,53.39,145,35,97,0,277,Yes,,,
+S00033,U9486,4/18/2024,11:11:51,Returning,Android App,Registered Login,Order Confirmed,None,Yes,6,34.33,234,41,97,103,475,No,Google Pay,ORD23970,36.62
+S00034,U9976,4/19/2024,22:32:27,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,4,53.05,192,66,216,0,474,No,,,
+S00035,U5681,4/20/2024,12:28:04,New,Mobile Web,Registered Login,View Cart,View Cart,No,2,64.42,171,76,102,0,349,No,,,
+S00036,U7812,4/21/2024,13:34:29,Returning,iOS App,Registered Login,Add to Cart,Add to Cart,No,2,34.27,108,37,48,0,193,No,,,
+S00037,U7865,4/22/2024,12:48:24,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,6,10.28,224,71,61,0,356,No,,,
+S00038,U3704,4/23/2024,18:51:25,New,Android App,Registered Login,View Cart,View Cart,No,2,27,278,13,89,0,380,No,,,
+S00039,U1823,4/24/2024,21:29:11,New,Desktop Web,Registered Login,Enter Delivery Details,Enter Delivery Details,No,5,46.24,43,20,224,0,287,No,,,
+S00040,U6733,4/25/2024,19:34:03,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,4,27.35,245,42,80,0,367,No,,,
+S00041,U4571,4/26/2024,15:42:07,New,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,2,22.15,40,89,99,0,228,No,,,
+S00042,U4249,4/27/2024,14:25:45,New,Mobile Web,Registered Login,Order Confirmed,None,Yes,5,72.6,88,30,139,33,290,No,Google Pay,ORD85470,76.35
+S00043,U2129,4/28/2024,14:42:23,New,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,3,65.11,91,82,70,0,243,No,,,
+S00044,U9817,4/29/2024,16:41:17,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,4,72.4,265,29,171,0,465,Yes,,,
+S00045,U7209,4/30/2024,15:36:39,New,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,2,63.82,74,45,175,0,294,No,,,
+S00046,U7658,5/1/2024,11:05:15,Returning,Desktop Web,Registered Login,Order Confirmed,None,Yes,2,32.41,162,53,131,96,442,No,Credit Card,ORD11330,33.3
+S00047,U7046,5/2/2024,11:19:42,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,4,61.32,77,47,116,0,240,No,,,
+S00048,U2958,5/3/2024,19:12:20,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,3,55.38,168,49,124,0,341,No,,,
+S00049,U3073,5/4/2024,8:45:34,New,Mobile Web,Registered Login,Order Confirmed,None,Yes,6,40.95,298,86,132,32,548,No,Credit Card,ORD57301,40
+S00050,U6582,5/5/2024,15:30:28,Returning,iOS App,Registered Login,Payment,Payment,No,6,66.31,281,23,63,0,367,No,,,
+S00051,U5978,5/6/2024,10:09:51,New,iOS App,Registered Login,Add to Cart,Add to Cart,No,1,35.44,67,83,120,0,270,No,,,
+S00052,U8025,5/7/2024,12:55:37,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,5,23.89,297,58,175,0,530,No,,,
+S00053,U1043,5/8/2024,16:04:10,New,iOS App,Registered Login,Add to Cart,Add to Cart,No,2,50.27,165,20,60,0,245,No,,,
+S00054,U4241,5/9/2024,12:50:50,New,Android App,Registered Login,View Cart,View Cart,No,6,27.65,262,19,127,0,408,No,,,
+S00055,U7594,5/10/2024,15:44:19,Returning,iOS App,Registered Login,Order Confirmed,None,Yes,3,63.55,66,17,102,59,244,No,Apple Pay,ORD47828,64.56
+S00056,U5415,5/11/2024,8:48:43,New,Android App,Registered Login,Order Confirmed,None,Yes,1,67.69,195,87,124,23,429,Yes,Google Pay,ORD85392,70.27
+S00057,U2713,5/12/2024,14:21:20,Returning,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,3,20.97,253,72,83,0,408,No,,,
+S00058,U9431,5/13/2024,20:25:55,Returning,Mobile Web,Registered Login,Payment,Payment,No,5,11.41,75,50,124,0,249,No,,,
+S00059,U3146,5/14/2024,11:17:35,New,Android App,Registered Login,Add to Cart,Add to Cart,No,3,50.08,285,90,96,0,471,No,,,
+S00060,U2924,5/15/2024,22:07:29,Returning,Mobile Web,Registered Login,Order Confirmed,None,Yes,6,49.18,152,30,139,90,411,Yes,Debit Card,ORD39451,54.04
+S00061,U9327,5/16/2024,10:24:12,New,Android App,Registered Login,Account Login/Register,Account Login/Register,No,3,36.41,277,70,122,0,469,No,,,
+S00062,U3434,5/17/2024,17:42:31,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,5,26.62,31,46,136,0,213,No,,,
+S00063,U1715,5/18/2024,21:49:26,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,4,70.56,126,40,206,0,372,No,,,
+S00064,U2644,5/19/2024,17:21:55,New,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,6,61.29,107,73,69,0,249,Yes,,,
+S00065,U9742,5/20/2024,21:21:54,Returning,Desktop Web,Registered Login,Order Confirmed,None,Yes,2,36.05,109,19,180,120,428,No,Debit Card,ORD62098,37.76
+S00066,U2480,5/21/2024,12:14:47,New,Android App,Registered Login,Account Login/Register,Account Login/Register,No,5,11.36,65,40,221,0,326,No,,,
+S00067,U8056,5/22/2024,12:22:23,New,Mobile Web,Registered Login,Add to Cart,Add to Cart,No,2,54.79,44,15,81,0,140,No,,,
+S00068,U4804,5/23/2024,22:37:09,Returning,Android App,Registered Login,Add to Cart,Add to Cart,No,2,14.2,225,89,127,0,441,No,,,
+S00069,U7951,5/24/2024,17:19:40,New,Android App,Registered Login,Enter Delivery Details,Enter Delivery Details,No,4,68.47,110,19,173,0,302,No,,,
+S00070,U5497,5/25/2024,21:42:25,Returning,Mobile Web,Registered Login,Order Confirmed,None,Yes,4,65.31,84,40,157,93,374,No,Credit Card,ORD48696,62.26
+S00071,U4588,5/26/2024,17:51:22,New,Mobile Web,Registered Login,Browse Menu,Browse Menu,No,5,58.17,176,0,139,0,315,No,,,
+S00072,U6977,5/27/2024,20:28:02,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,6,64.32,79,90,225,0,394,Yes,,,
+S00073,U8894,5/28/2024,21:10:16,Returning,iOS App,Registered Login,Add to Cart,Add to Cart,No,2,60.9,217,77,104,0,398,No,,,
+S00074,U5295,5/29/2024,15:23:43,New,iOS App,Registered Login,Order Confirmed,None,Yes,1,18.28,145,60,202,66,473,Yes,Debit Card,ORD44663,18.84
+S00075,U5951,5/30/2024,18:52:29,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,4,10.64,197,88,116,0,401,No,,,
+S00076,U9850,5/31/2024,13:42:47,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,4,16.65,150,78,94,0,322,No,,,
+S00077,U6942,6/1/2024,15:28:15,New,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,4,49.62,173,14,236,0,423,No,,,
+S00078,U1349,6/2/2024,11:41:40,New,Android App,Registered Login,Account Login/Register,Account Login/Register,No,1,35.27,127,25,176,0,328,Yes,,,
+S00079,U9850,6/3/2024,21:09:08,New,iOS App,Registered Login,Order Confirmed,None,Yes,5,22.53,136,85,115,49,385,No,Credit Card,ORD88116,21.41
+S00080,U7897,6/4/2024,12:03:08,New,iOS App,Registered Login,Add to Cart,Add to Cart,No,3,61.13,151,85,81,0,317,Yes,,,
+S00081,U9543,6/5/2024,20:58:55,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,5,16.19,287,38,217,0,542,Yes,,,
+S00082,U5505,6/6/2024,10:04:08,New,Desktop Web,Registered Login,Order Confirmed,None,Yes,4,64.91,248,23,185,111,567,No,Credit Card,ORD20589,64.8
+S00083,U4522,6/7/2024,19:07:54,New,Android App,Registered Login,Payment,Payment,No,5,28.45,288,87,170,0,545,Yes,,,
+S00084,U8770,6/8/2024,13:09:43,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,4,57.14,190,64,140,0,394,No,,,
+S00085,U6793,6/9/2024,18:07:26,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,3,62.57,60,85,203,0,348,No,,,
+S00086,U8900,6/10/2024,11:09:42,New,Android App,Registered Login,Browse Menu,Browse Menu,No,3,48.62,210,0,53,0,263,No,,,
+S00087,U1430,6/11/2024,17:43:41,New,Android App,Registered Login,Add to Cart,Add to Cart,No,3,46.88,249,81,138,0,468,No,,,
+S00088,U7566,6/12/2024,10:36:42,New,Mobile Web,Registered Login,Add to Cart,Add to Cart,No,6,59.31,203,54,40,0,297,No,,,
+S00089,U1861,6/13/2024,17:38:05,Returning,Android App,Registered Login,Order Confirmed,None,Yes,6,44,222,63,176,63,524,Yes,Debit Card,ORD52517,46.93
+S00090,U8043,6/14/2024,16:07:22,Returning,Android App,Registered Login,View Cart,View Cart,No,6,36.97,256,63,74,0,393,No,,,
+S00091,U5186,6/15/2024,11:49:08,Returning,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,1,23.54,58,10,112,0,180,No,,,
+S00092,U7505,6/16/2024,20:22:04,Returning,iOS App,Registered Login,Add to Cart,Add to Cart,No,4,44.14,147,74,111,0,332,No,,,
+S00093,U6928,6/17/2024,17:29:53,Returning,Android App,Registered Login,Order Confirmed,None,Yes,3,46.99,237,63,134,34,468,No,Google Pay,ORD32527,50.29
+S00094,U2868,6/18/2024,10:04:32,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,1,35.11,188,53,116,0,357,No,,,
+S00095,U2234,6/19/2024,10:38:09,New,Desktop Web,Registered Login,Account Login/Register,Account Login/Register,No,6,62.78,150,23,97,0,270,No,,,
+S00096,U5961,6/20/2024,9:30:28,New,Android App,Registered Login,Account Login/Register,Account Login/Register,No,5,38.62,195,90,140,0,425,Yes,,,
+S00097,U1672,6/21/2024,16:24:29,New,Android App,Registered Login,Order Confirmed,None,Yes,4,38.82,59,57,133,29,278,No,Google Pay,ORD21835,40.46
+S00098,U8172,6/22/2024,10:02:15,New,Android App,Registered Login,Order Confirmed,None,Yes,5,40.38,107,17,175,33,332,No,Apple Pay,ORD21053,41.42
+S00099,U6401,6/23/2024,18:21:04,New,Android App,Registered Login,Payment,Payment,No,4,35.97,203,86,73,0,362,No,,,
+S00100,U7421,6/24/2024,22:22:19,New,Android App,Registered Login,Enter Delivery Details,Enter Delivery Details,No,5,66.63,200,20,209,0,429,No,,,
+S00101,U6940,6/25/2024,16:23:01,New,Desktop Web,Registered Login,Account Login/Register,Account Login/Register,No,3,62.66,299,21,225,0,545,No,,,
+S00102,U9843,6/26/2024,9:32:49,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,2,74.99,109,19,135,0,263,No,,,
+S00103,U7731,6/27/2024,19:28:02,Returning,iOS App,Registered Login,Add to Cart,Add to Cart,No,4,19.17,122,89,143,0,354,No,,,
+S00104,U4178,6/28/2024,20:50:30,New,iOS App,Registered Login,View Cart,View Cart,No,6,60.72,149,78,70,0,297,No,,,
+S00105,U1854,6/29/2024,10:55:16,New,Android App,Registered Login,Account Login/Register,Account Login/Register,No,4,42.18,244,30,111,0,385,No,,,
+S00106,U8167,6/30/2024,22:32:09,New,Android App,Registered Login,Account Login/Register,Account Login/Register,No,5,65.17,175,20,101,0,296,No,,,
+S00107,U1461,7/1/2024,9:23:14,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,1,36.37,232,74,155,0,461,No,,,
+S00108,U2298,7/2/2024,17:00:57,New,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,2,11.52,271,27,240,0,538,No,,,
+S00109,U8489,7/3/2024,11:26:40,Returning,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,5,36.92,177,40,137,0,354,Yes,,,
+S00110,U7825,7/4/2024,17:22:15,Returning,Desktop Web,Registered Login,Browse Menu,Browse Menu,No,5,46.94,103,0,77,0,180,No,,,
+S00111,U7338,7/5/2024,15:02:40,New,iOS App,Registered Login,Add to Cart,Add to Cart,No,5,44.9,289,80,42,0,411,No,,,
+S00112,U3868,7/6/2024,13:34:21,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,6,52.36,83,84,145,0,312,Yes,,,
+S00113,U1686,7/7/2024,20:12:56,New,Mobile Web,Registered Login,Enter Delivery Details,Enter Delivery Details,No,1,56.25,264,14,135,0,413,No,,,
+S00114,U6438,7/8/2024,8:55:41,New,Android App,Registered Login,Account Login/Register,Account Login/Register,No,3,11.41,127,46,151,0,324,No,,,
+S00115,U5369,7/9/2024,22:51:33,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,4,31.37,125,73,237,0,435,No,,,
+S00116,U7981,7/10/2024,12:28:38,New,iOS App,Registered Login,Enter Delivery Details,Enter Delivery Details,No,5,28.38,82,20,143,0,245,No,,,
+S00117,U1510,7/11/2024,19:43:10,New,Android App,Registered Login,Order Confirmed,None,Yes,3,49.57,252,45,223,27,547,Yes,PayPal,ORD57619,50.91
+S00118,U8371,7/12/2024,8:38:09,New,Mobile Web,Registered Login,Add to Cart,Add to Cart,No,2,60.37,217,56,89,0,362,No,,,
+S00119,U7340,7/13/2024,10:31:33,Returning,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,4,29.74,172,41,89,0,302,Yes,,,
+S00120,U8292,7/14/2024,9:28:11,Returning,Mobile Web,Registered Login,View Cart,View Cart,No,5,27.84,281,35,55,0,371,Yes,,,
+S00121,U3852,7/15/2024,22:44:40,New,Desktop Web,Registered Login,Account Login/Register,Account Login/Register,No,6,13.28,178,48,100,0,326,No,,,
+S00122,U6067,7/16/2024,22:05:04,New,iOS App,Registered Login,Order Confirmed,None,Yes,2,24.61,282,13,152,90,537,No,Debit Card,ORD82305,23.86
+S00123,U3981,7/17/2024,16:22:08,New,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,5,13.86,192,19,175,0,386,No,,,
+S00124,U4216,7/18/2024,21:05:16,Returning,Desktop Web,Registered Login,Order Confirmed,None,Yes,1,43.18,185,31,101,61,378,No,Credit Card,ORD78012,46.82
+S00125,U6531,7/19/2024,18:39:46,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,1,42.16,116,85,208,0,409,Yes,,,
+S00126,U5012,7/20/2024,18:19:30,Returning,Desktop Web,Registered Login,Order Confirmed,None,Yes,6,59.88,165,36,206,73,480,No,Credit Card,ORD92203,61.79
+S00127,U6658,7/21/2024,21:45:20,Returning,Android App,Registered Login,Add to Cart,Add to Cart,No,4,40.95,134,53,117,0,304,Yes,,,
+S00128,U7850,7/22/2024,12:24:55,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,4,17.08,260,41,96,0,397,Yes,,,
+S00129,U1379,7/23/2024,22:19:31,New,Desktop Web,Registered Login,Payment,Payment,No,6,29.63,111,73,191,0,375,No,,,
+S00130,U5681,7/24/2024,18:43:30,New,Android App,Registered Login,View Cart,View Cart,No,3,12.2,174,73,116,0,363,No,,,
+S00131,U8378,7/25/2024,9:24:32,Returning,iOS App,Registered Login,Order Confirmed,None,Yes,3,57.01,236,56,71,71,434,Yes,PayPal,ORD57516,58.89
+S00132,U9341,7/26/2024,10:12:38,Returning,Desktop Web,Registered Login,Add to Cart,Add to Cart,No,1,34.99,203,81,160,0,444,No,,,
+S00133,U5902,7/27/2024,14:39:47,New,iOS App,Registered Login,Order Confirmed,None,Yes,3,62.05,295,68,98,97,558,No,Credit Card,ORD90356,61.91
+S00134,U1436,7/28/2024,14:37:19,Returning,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,3,40.33,38,57,144,0,239,No,,,
+S00135,U7229,7/29/2024,18:46:39,New,Desktop Web,Registered Login,Account Login/Register,Account Login/Register,No,5,24.01,56,84,182,0,322,Yes,,,
+S00136,U8726,7/30/2024,11:26:32,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,2,10.24,190,63,98,0,351,No,,,
+S00137,U5331,7/31/2024,13:34:22,New,Android App,Registered Login,Payment,Payment,No,4,43.67,190,32,177,0,399,No,,,
+S00138,U5480,8/1/2024,16:59:59,New,Desktop Web,Registered Login,View Cart,View Cart,No,3,59.89,136,72,80,0,288,No,,,
+S00139,U8247,8/2/2024,19:05:22,Returning,Mobile Web,Registered Login,Payment,Payment,No,3,71.99,104,47,70,0,221,No,,,
+S00140,U4814,8/3/2024,16:14:40,Returning,Android App,Registered Login,Order Confirmed,None,Yes,5,26.88,169,27,87,98,381,No,Credit Card,ORD16653,28.24
+S00141,U4267,8/4/2024,22:30:30,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,2,9.33,110,62,227,0,399,No,,,
+S00142,U1595,8/5/2024,10:59:58,Returning,Android App,Registered Login,Add to Cart,Add to Cart,No,5,24.32,49,32,93,0,174,No,,,
+S00143,U8444,8/6/2024,22:21:18,New,iOS App,Registered Login,Enter Delivery Details,Enter Delivery Details,No,3,66.86,34,48,205,0,287,No,,,
+S00144,U4050,8/7/2024,18:16:45,New,Android App,Registered Login,Enter Delivery Details,Enter Delivery Details,No,4,27,87,52,101,0,240,No,,,
+S00145,U4027,8/8/2024,14:42:06,New,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,2,49.31,237,64,191,0,492,No,,,
+S00146,U2936,8/9/2024,11:03:42,New,Desktop Web,Registered Login,Order Confirmed,None,Yes,4,24.53,166,52,137,94,449,No,Credit Card,ORD95679,24.63
+S00147,U3509,8/10/2024,11:08:30,Returning,Android App,Registered Login,Enter Delivery Details,Enter Delivery Details,No,6,59.8,90,47,154,0,291,No,,,
+S00148,U9609,8/11/2024,21:50:05,New,Android App,Registered Login,Account Login/Register,Account Login/Register,No,4,58.98,141,41,234,0,416,No,,,
+S00149,U8239,8/12/2024,13:54:33,New,Android App,Registered Login,Add to Cart,Add to Cart,No,5,68.58,133,83,108,0,324,Yes,,,
+S00150,U8575,8/13/2024,17:03:35,New,Mobile Web,Registered Login,Enter Delivery Details,Enter Delivery Details,No,4,62.36,262,26,191,0,479,No,,,
+S00151,U2130,8/14/2024,9:34:03,New,Mobile Web,Registered Login,Enter Delivery Details,Enter Delivery Details,No,6,23.37,67,15,168,0,250,No,,,
+S00152,U7154,8/15/2024,22:58:24,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,6,51.62,245,57,157,0,459,No,,,
+S00153,U1372,8/16/2024,11:53:00,New,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,3,16.82,231,77,92,0,400,No,,,
+S00154,U2848,8/17/2024,22:46:48,New,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,2,25.33,207,29,130,0,366,No,,,
+S00155,U1797,8/18/2024,17:43:45,New,Android App,Registered Login,Enter Delivery Details,Enter Delivery Details,No,1,24.87,64,22,212,0,298,Yes,,,
+S00156,U6253,8/19/2024,17:20:36,New,Android App,Registered Login,View Cart,View Cart,No,1,18.24,178,39,144,0,361,No,,,
+S00157,U7244,8/20/2024,15:03:22,Returning,iOS App,Registered Login,View Cart,View Cart,No,3,27.15,119,90,126,0,335,No,,,
+S00158,U9683,8/21/2024,16:26:26,Returning,Android App,Registered Login,Order Confirmed,None,Yes,4,21.13,272,40,117,58,487,No,Credit Card,ORD70689,22.97
+S00159,U1647,8/22/2024,8:17:24,Returning,iOS App,Registered Login,Add to Cart,Add to Cart,No,4,64.9,77,78,132,0,287,No,,,
+S00160,U8846,8/23/2024,11:47:07,Returning,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,4,22.78,200,48,63,0,311,No,,,
+S00161,U9401,8/24/2024,12:16:23,New,Mobile Web,Registered Login,View Cart,View Cart,No,3,60.17,224,69,108,0,401,No,,,
+S00162,U3390,8/25/2024,21:14:47,New,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,3,69.34,219,50,165,0,434,Yes,,,
+S00163,U6530,8/26/2024,15:35:41,Returning,Desktop Web,Registered Login,Account Login/Register,Account Login/Register,No,2,21.94,147,58,205,0,410,No,,,
+S00164,U9882,8/27/2024,15:11:58,New,Android App,Registered Login,Account Login/Register,Account Login/Register,No,4,20.09,210,31,95,0,336,No,,,
+S00165,U3474,8/28/2024,11:04:45,New,Android App,Registered Login,Add to Cart,Add to Cart,No,6,12.19,33,62,57,0,152,No,,,
+S00166,U1280,8/29/2024,12:34:18,Returning,Android App,Registered Login,Order Confirmed,None,Yes,6,53,277,72,64,20,433,No,Debit Card,ORD12192,54.56
+S00167,U6807,8/30/2024,16:16:52,New,Mobile Web,Registered Login,Payment,Payment,No,1,69.58,298,29,121,0,448,No,,,
+S00168,U1519,8/31/2024,9:41:54,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,2,74.35,145,48,235,0,428,No,,,
+S00169,U9653,9/1/2024,17:54:06,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,6,20.3,285,65,225,0,575,No,,,
+S00170,U6152,9/2/2024,8:11:59,Returning,Desktop Web,Registered Login,Account Login/Register,Account Login/Register,No,3,12.06,68,45,199,0,312,No,,,
+S00171,U9856,9/3/2024,21:54:24,New,Android App,Registered Login,Account Login/Register,Account Login/Register,No,4,70.3,183,30,204,0,417,No,,,
+S00172,U7499,9/4/2024,21:04:21,Returning,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,1,42.04,207,16,85,0,308,No,,,
+S00173,U5839,9/5/2024,18:24:05,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,3,45.49,222,65,107,0,394,No,,,
+S00174,U3170,9/6/2024,20:17:06,New,iOS App,Registered Login,Order Confirmed,None,Yes,6,60.73,108,59,141,66,374,Yes,Credit Card,ORD50405,61.74
+S00175,U5781,9/7/2024,21:24:00,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,1,14.9,77,86,213,0,376,No,,,
+S00176,U3390,9/8/2024,12:17:31,Returning,iOS App,Registered Login,Enter Delivery Details,Enter Delivery Details,No,2,46.74,116,58,103,0,277,Yes,,,
+S00177,U3219,9/9/2024,11:29:06,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,3,25.6,156,90,186,0,432,No,,,
+S00178,U8848,9/10/2024,17:44:12,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,3,38.04,250,86,94,0,430,No,,,
+S00179,U2865,9/11/2024,20:25:23,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,6,41.4,154,51,156,0,361,No,,,
+S00180,U4965,9/12/2024,10:40:19,Returning,Desktop Web,Registered Login,Order Confirmed,None,Yes,5,10.77,266,36,172,57,531,No,Credit Card,ORD63627,11.32
+S00181,U9907,9/13/2024,21:44:26,New,Mobile Web,Registered Login,Add to Cart,Add to Cart,No,5,40.62,235,78,104,0,417,No,,,
+S00182,U1725,9/14/2024,10:41:39,New,Android App,Registered Login,Account Login/Register,Account Login/Register,No,6,69.34,85,41,228,0,354,No,,,
+S00183,U4621,9/15/2024,16:35:37,New,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,4,15.98,80,43,116,0,239,No,,,
+S00184,U3321,9/16/2024,22:05:07,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,2,31.76,42,71,86,0,199,No,,,
+S00185,U3692,9/17/2024,13:41:06,Returning,Android App,Registered Login,Order Confirmed,None,Yes,4,31.98,79,66,238,77,460,No,Debit Card,ORD25084,30.49
+S00186,U1478,9/18/2024,18:27:25,New,Android App,Registered Login,Account Login/Register,Account Login/Register,No,4,24.29,237,90,107,0,434,No,,,
+S00187,U6993,9/19/2024,21:34:11,New,Android App,Registered Login,Browse Menu,Browse Menu,No,2,22.57,62,0,113,0,175,Yes,,,
+S00188,U8501,9/20/2024,13:22:54,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,6,29.67,228,88,160,0,476,No,,,
+S00189,U3316,9/21/2024,9:11:23,Returning,Mobile Web,Registered Login,Payment,Payment,No,5,14.58,98,50,90,0,238,No,,,
+S00190,U8389,9/22/2024,10:11:20,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,4,50.93,118,81,102,0,301,No,,,
+S00191,U2354,9/23/2024,15:31:10,Returning,Android App,Registered Login,Order Confirmed,None,Yes,2,21.87,226,81,189,103,599,No,Apple Pay,ORD64477,23.11
+S00192,U2854,9/24/2024,15:35:32,Returning,Mobile Web,Registered Login,View Cart,View Cart,No,5,28.04,264,82,135,0,481,No,,,
+S00193,U5055,9/25/2024,9:47:53,Returning,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,1,59.15,255,79,115,0,449,No,,,
+S00194,U8015,9/26/2024,17:44:22,New,iOS App,Registered Login,Enter Delivery Details,Enter Delivery Details,No,1,37.97,90,40,113,0,243,No,,,
+S00195,U5380,9/27/2024,19:18:18,New,Mobile Web,Registered Login,Enter Delivery Details,Enter Delivery Details,No,5,32.14,173,86,197,0,456,Yes,,,
+S00196,U3329,9/28/2024,18:25:31,New,Mobile Web,Registered Login,Order Confirmed,None,Yes,4,69.63,171,26,239,36,472,No,Apple Pay,ORD42447,74.1
+S00197,U2526,9/29/2024,13:37:00,New,Android App,Registered Login,Add to Cart,Add to Cart,No,1,35.58,172,57,98,0,327,No,,,
+S00198,U9967,9/30/2024,21:18:21,New,Mobile Web,Registered Login,Enter Delivery Details,Enter Delivery Details,No,4,23.37,249,37,186,0,472,No,,,
+S00199,U1011,10/1/2024,10:28:29,Returning,Desktop Web,Registered Login,Enter Delivery Details,Enter Delivery Details,No,1,12.02,265,12,91,0,368,No,,,
+S00200,U4836,10/2/2024,14:40:19,Returning,Mobile Web,Registered Login,Order Confirmed,None,Yes,6,28.91,170,21,227,66,484,No,Debit Card,ORD95054,28.18
+S00201,U8826,10/3/2024,14:44:08,New,Mobile Web,Registered Login,Order Confirmed,None,Yes,4,14.13,145,76,234,76,531,Yes,Apple Pay,ORD25806,15.52
+S00202,U3340,10/4/2024,21:08:41,Returning,iOS App,Registered Login,Add to Cart,Add to Cart,No,3,67.14,100,58,139,0,297,No,,,
+S00203,U2646,10/5/2024,21:13:05,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,6,23.05,107,62,217,0,386,No,,,
+S00204,U5668,10/6/2024,16:38:38,New,Android App,Registered Login,Payment,Payment,No,3,61.2,156,45,225,0,426,Yes,,,
+S00205,U9108,10/7/2024,22:50:15,Returning,Mobile Web,Registered Login,View Cart,View Cart,No,5,42.62,230,47,122,0,399,Yes,,,
+S00206,U9951,10/8/2024,17:26:23,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,1,74.12,192,26,159,0,377,No,,,
+S00207,U5693,10/9/2024,20:25:32,Returning,Android App,Registered Login,Add to Cart,Add to Cart,No,5,13.45,164,37,45,0,246,No,,,
+S00208,U3545,10/10/2024,16:58:13,New,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,6,44.4,108,45,81,0,234,No,,,
+S00209,U8428,10/11/2024,22:27:07,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,6,13.35,253,40,74,0,367,No,,,
+S00210,U5247,10/12/2024,13:33:33,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,1,9.83,100,11,101,0,212,No,,,
+S00211,U2262,10/13/2024,9:16:45,Returning,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,1,59.9,45,52,169,0,266,No,,,
+S00212,U1042,10/14/2024,11:47:32,New,Android App,Registered Login,Account Login/Register,Account Login/Register,No,3,19.37,82,83,232,0,397,No,,,
+S00213,U6241,10/15/2024,13:15:26,New,iOS App,Registered Login,Order Confirmed,None,Yes,3,34.27,106,32,69,90,297,No,Apple Pay,ORD95944,34.71
+S00214,U6362,10/16/2024,20:54:19,New,Android App,Registered Login,Order Confirmed,None,Yes,6,68.52,121,38,192,25,376,No,Credit Card,ORD70960,74
+S00215,U5016,10/17/2024,16:48:50,New,iOS App,Registered Login,Order Confirmed,None,Yes,5,60.77,154,69,154,95,472,No,Google Pay,ORD35614,64.41
+S00216,U2703,10/18/2024,19:46:19,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,6,66.89,201,10,228,0,439,No,,,
+S00217,U7767,10/19/2024,22:54:33,New,iOS App,Registered Login,Browse Menu,Browse Menu,No,2,55.96,77,0,45,0,122,No,,,
+S00218,U4879,10/20/2024,14:42:08,New,Android App,Registered Login,Account Login/Register,Account Login/Register,No,5,17.8,231,19,211,0,461,No,,,
+S00219,U2785,10/21/2024,11:08:49,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,6,30.52,261,44,119,0,424,Yes,,,
+S00220,U3582,10/22/2024,21:07:05,Returning,Android App,Registered Login,Add to Cart,Add to Cart,No,3,72.66,136,67,79,0,282,No,,,
+S00221,U3848,10/23/2024,18:19:16,Returning,Mobile Web,Registered Login,View Cart,View Cart,No,3,18.78,157,55,90,0,302,No,,,
+S00222,U4246,10/24/2024,20:14:08,New,Desktop Web,Registered Login,Account Login/Register,Account Login/Register,No,1,39.48,101,25,63,0,189,Yes,,,
+S00223,U3110,10/25/2024,18:28:51,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,3,69.54,68,12,76,0,156,No,,,
+S00224,U7990,10/26/2024,15:01:24,New,Mobile Web,Registered Login,Browse Menu,Browse Menu,No,4,12.33,251,0,145,0,396,No,,,
+S00225,U2437,10/27/2024,16:30:03,Returning,Desktop Web,Registered Login,Account Login/Register,Account Login/Register,No,2,11.28,155,47,187,0,389,No,,,
+S00226,U9231,10/28/2024,20:31:22,Returning,Android App,Registered Login,Enter Delivery Details,Enter Delivery Details,No,2,50.62,39,58,151,0,248,No,,,
+S00227,U5060,10/29/2024,11:10:06,Returning,iOS App,Registered Login,View Cart,View Cart,No,3,12.86,271,77,85,0,433,No,,,
+S00228,U6878,10/30/2024,17:20:51,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,2,46.99,228,55,104,0,387,Yes,,,
+S00229,U4811,10/31/2024,8:05:03,Returning,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,5,71.58,282,79,139,0,500,Yes,,,
+S00230,U6978,11/1/2024,21:33:55,Returning,Android App,Registered Login,Order Confirmed,None,Yes,5,22.29,96,53,105,61,315,Yes,Credit Card,ORD28566,23.76
+S00231,U3854,11/2/2024,15:41:20,Returning,Desktop Web,Registered Login,Add to Cart,Add to Cart,No,3,30.28,110,65,141,0,316,No,,,
+S00232,U1029,11/3/2024,10:11:46,New,Desktop Web,Registered Login,View Cart,View Cart,No,5,62.74,223,49,133,0,405,No,,,
+S00233,U3304,11/4/2024,9:59:31,New,Android App,Registered Login,Payment,Payment,No,1,21.01,192,88,116,0,396,No,,,
+S00234,U6742,11/5/2024,11:44:04,New,iOS App,Registered Login,Add to Cart,Add to Cart,No,1,63.22,201,67,41,0,309,No,,,
+S00235,U4695,11/6/2024,17:41:48,New,Mobile Web,Registered Login,Order Confirmed,None,Yes,4,57.34,115,62,186,68,431,No,Debit Card,ORD72847,61.26
+S00236,U8909,11/7/2024,22:05:21,New,Mobile Web,Registered Login,Order Confirmed,None,Yes,1,30.03,83,19,147,41,290,No,Credit Card,ORD19830,30.99
+S00237,U9849,11/8/2024,19:59:46,Returning,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,1,15.67,135,34,164,0,333,No,,,
+S00238,U1421,11/9/2024,15:12:06,New,iOS App,Registered Login,Order Confirmed,None,Yes,4,46.73,281,29,73,66,449,Yes,Credit Card,ORD96772,48.78
+S00239,U4056,11/10/2024,22:24:23,Returning,iOS App,Registered Login,Order Confirmed,None,Yes,1,29.34,233,70,185,104,592,No,PayPal,ORD60793,28.69
+S00240,U4727,11/11/2024,16:26:48,Returning,Android App,Registered Login,Enter Delivery Details,Enter Delivery Details,No,5,13.06,79,20,231,0,330,No,,,
+S00241,U1568,11/12/2024,9:25:57,Returning,Android App,Registered Login,Payment,Payment,No,6,66.21,273,83,120,0,476,No,,,
+S00242,U1699,11/13/2024,20:12:08,New,Android App,Registered Login,Payment,Payment,No,2,16.93,259,32,102,0,393,No,,,
+S00243,U1202,11/14/2024,16:29:58,Returning,Mobile Web,Registered Login,Order Confirmed,None,Yes,6,18.75,162,50,77,31,320,No,Debit Card,ORD52746,20.22
+S00244,U9775,11/15/2024,20:18:55,New,Android App,Registered Login,Account Login/Register,Account Login/Register,No,2,46.39,81,23,204,0,308,No,,,
+S00245,U1635,11/16/2024,18:44:25,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,4,11.46,171,61,96,0,328,No,,,
+S00246,U2609,11/17/2024,21:31:54,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,3,68.19,40,53,137,0,230,No,,,
+S00247,U8937,11/18/2024,21:26:47,Returning,Desktop Web,Registered Login,Enter Delivery Details,Enter Delivery Details,No,3,57.09,75,34,173,0,282,No,,,
+S00248,U3846,11/19/2024,22:36:01,New,Mobile Web,Registered Login,Add to Cart,Add to Cart,No,3,55.82,236,27,139,0,402,No,,,
+S00249,U7102,11/20/2024,18:01:15,New,iOS App,Registered Login,Order Confirmed,None,Yes,1,39.12,214,35,130,67,446,No,PayPal,ORD93284,42.58
+S00250,U4511,11/21/2024,8:10:54,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,3,31.71,162,21,132,0,315,Yes,,,
+S00251,U4666,11/22/2024,17:51:00,New,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,1,66.06,34,70,93,0,197,No,,,
+S00252,U9530,11/23/2024,15:19:43,New,Desktop Web,Registered Login,Account Login/Register,Account Login/Register,No,3,36.96,222,54,177,0,453,No,,,
+S00253,U6327,11/24/2024,9:21:17,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,3,46.05,174,48,235,0,457,Yes,,,
+S00254,U1417,11/25/2024,13:43:08,Returning,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,2,43.13,153,17,213,0,383,No,,,
+S00255,U6873,11/26/2024,18:50:30,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,6,11.32,127,53,116,0,296,No,,,
+S00256,U6499,11/27/2024,10:43:57,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,3,15.43,95,43,203,0,341,No,,,
+S00257,U2166,11/28/2024,21:40:37,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,3,33.52,180,69,90,0,339,No,,,
+S00258,U8496,11/29/2024,17:57:58,New,Android App,Registered Login,Account Login/Register,Account Login/Register,No,3,36.26,107,27,111,0,245,No,,,
+S00259,U3762,11/30/2024,11:48:49,Returning,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,6,74.11,190,17,61,0,268,No,,,
+S00260,U9745,12/1/2024,14:00:02,New,Android App,Registered Login,Add to Cart,Add to Cart,No,5,37.61,249,61,94,0,404,No,,,
+S00261,U3112,12/2/2024,22:22:19,New,Desktop Web,Registered Login,Account Login/Register,Account Login/Register,No,5,21.57,32,90,123,0,245,No,,,
+S00262,U4087,12/3/2024,22:31:22,Returning,Android App,Registered Login,Order Confirmed,None,Yes,1,28.67,178,68,193,96,535,No,Debit Card,ORD27536,28.71
+S00263,U1612,12/4/2024,9:23:45,New,Desktop Web,Registered Login,View Cart,View Cart,No,6,73.99,138,12,115,0,265,No,,,
+S00264,U3024,12/5/2024,14:28:24,New,iOS App,Registered Login,Browse Menu,Browse Menu,No,1,52.68,40,0,46,0,86,No,,,
+S00265,U2718,12/6/2024,14:53:57,Returning,Mobile Web,Registered Login,Order Confirmed,None,Yes,6,50.59,184,63,229,32,508,No,Credit Card,ORD89381,53.38
+S00266,U8875,12/7/2024,15:58:13,New,iOS App,Registered Login,Order Confirmed,None,Yes,1,41.84,132,43,193,45,413,No,Debit Card,ORD31020,40
+S00267,U5850,12/8/2024,18:14:29,Returning,iOS App,Registered Login,Order Confirmed,None,Yes,1,64.12,282,29,83,119,513,No,Apple Pay,ORD23276,69.62
+S00268,U3793,12/9/2024,10:42:41,New,iOS App,Registered Login,Order Confirmed,None,Yes,1,65.24,214,50,169,114,547,Yes,Google Pay,ORD16014,62.07
+S00269,U7319,12/10/2024,15:17:53,Returning,Android App,Registered Login,Enter Delivery Details,Enter Delivery Details,No,1,33.58,205,33,89,0,327,No,,,
+S00270,U8178,12/11/2024,17:30:51,New,Mobile Web,Registered Login,Enter Delivery Details,Enter Delivery Details,No,1,17.74,60,30,86,0,176,No,,,
+S00271,U2037,12/12/2024,14:28:02,New,Mobile Web,Registered Login,Enter Delivery Details,Enter Delivery Details,No,6,73.24,96,71,184,0,351,Yes,,,
+S00272,U8091,12/13/2024,19:39:06,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,6,47.05,144,53,192,0,389,No,,,
+S00273,U9123,12/14/2024,16:54:30,New,Android App,Registered Login,Account Login/Register,Account Login/Register,No,2,64.37,57,11,224,0,292,No,,,
+S00274,U8341,12/15/2024,15:51:36,Returning,Android App,Registered Login,Payment,Payment,No,1,42.45,223,61,120,0,404,Yes,,,
+S00275,U9328,12/16/2024,17:40:19,New,Android App,Registered Login,Order Confirmed,None,Yes,4,58.18,39,23,163,72,297,Yes,PayPal,ORD21913,62.18
+S00276,U6952,12/17/2024,17:30:45,Returning,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,1,62.88,262,52,203,0,517,No,,,
+S00277,U7704,12/18/2024,21:45:47,Returning,Mobile Web,Registered Login,Order Confirmed,None,Yes,3,32.43,179,80,193,67,519,No,Credit Card,ORD31516,33.2
+S00278,U8493,12/19/2024,20:57:28,Returning,iOS App,Registered Login,Order Confirmed,None,Yes,4,23.22,127,53,87,116,383,No,Google Pay,ORD98098,24.11
+S00279,U3903,12/20/2024,22:32:49,New,Android App,Registered Login,Browse Menu,Browse Menu,No,6,12.2,251,0,147,0,398,No,,,
+S00280,U3185,12/21/2024,13:18:28,New,Mobile Web,Registered Login,Order Confirmed,None,Yes,4,52.39,194,74,158,73,499,No,Google Pay,ORD42537,51.92
+S00281,U5760,12/22/2024,11:39:45,Returning,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,6,45.15,190,80,221,0,491,No,,,
+S00282,U7839,12/23/2024,17:36:42,Returning,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,2,42.25,195,24,150,0,369,No,,,
+S00283,U3636,12/24/2024,8:12:17,New,Mobile Web,Registered Login,Enter Delivery Details,Enter Delivery Details,No,1,43.49,42,58,97,0,197,Yes,,,
+S00284,U7371,12/25/2024,19:41:35,New,iOS App,Registered Login,Order Confirmed,None,Yes,3,22.45,46,55,175,33,309,No,Apple Pay,ORD83647,24.24
+S00285,U5117,12/26/2024,16:03:00,New,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,1,70.14,228,63,235,0,526,No,,,
+S00286,U4170,12/27/2024,11:49:46,New,Mobile Web,Registered Login,Enter Delivery Details,Enter Delivery Details,No,6,55.5,218,85,199,0,502,No,,,
+S00287,U8640,12/28/2024,12:00:21,Returning,Desktop Web,Registered Login,Order Confirmed,None,Yes,2,57.51,91,58,70,74,293,No,Credit Card,ORD31093,59.67
+S00288,U6207,12/29/2024,9:50:45,Returning,Desktop Web,Registered Login,Account Login/Register,Account Login/Register,No,6,49.62,184,72,206,0,462,No,,,
+S00289,U9691,12/30/2024,11:48:39,Returning,iOS App,Registered Login,Order Confirmed,None,Yes,5,19.51,236,21,149,48,454,No,Apple Pay,ORD53393,19.59
+S00290,U1653,12/31/2024,22:39:15,New,Mobile Web,Registered Login,Browse Menu,Browse Menu,No,6,31.83,153,0,155,0,308,No,,,
+S00291,U9335,1/1/2025,20:23:32,New,Android App,Registered Login,Add to Cart,Add to Cart,No,3,44.65,174,13,156,0,343,No,,,
+S00292,U4492,1/2/2025,9:13:42,New,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,1,71.57,115,78,196,0,389,Yes,,,
+S00293,U2200,1/3/2025,13:02:05,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,6,60.15,66,29,66,0,161,No,,,
+S00294,U2036,1/4/2025,16:00:41,Returning,iOS App,Registered Login,Order Confirmed,None,Yes,2,69.12,238,59,175,100,572,No,Debit Card,ORD61052,72.64
+S00295,U7473,1/5/2025,22:28:24,Returning,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,3,60.92,184,87,82,0,353,No,,,
+S00296,U3316,1/6/2025,8:35:55,Returning,iOS App,Registered Login,Order Confirmed,None,Yes,6,34.8,181,28,136,106,451,No,Google Pay,ORD94926,35.01
+S00297,U3637,1/7/2025,21:32:09,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,1,29.1,206,37,165,0,408,No,,,
+S00298,U8982,1/8/2025,11:46:37,Returning,Mobile Web,Registered Login,Order Confirmed,None,Yes,2,53.27,57,80,178,102,417,No,Credit Card,ORD18829,52.61
+S00299,U3496,1/9/2025,18:19:44,Returning,Mobile Web,Registered Login,View Cart,View Cart,No,1,68.4,192,72,97,0,361,No,,,
+S00300,U6432,1/10/2025,10:43:46,New,Mobile Web,Registered Login,Add to Cart,Add to Cart,No,3,25.24,143,65,75,0,283,No,,,
+S00301,U9309,1/11/2025,9:57:01,Returning,iOS App,Guest Checkout,Order Confirmed,None,Yes,2,51.6,71,45,74,37,227,No,Credit Card,ORD92132,49.61
+S00302,U7500,1/12/2025,16:32:05,New,Android App,Guest Checkout,Order Confirmed,None,Yes,1,45.4,271,29,43,70,413,No,Apple Pay,ORD48141,44.04
+S00303,U3395,1/13/2025,17:42:55,New,Mobile Web,Guest Checkout,Account Login/Register,Account Login/Register,No,2,58.97,101,67,30,0,198,Yes,,,
+S00304,U9542,1/14/2025,18:20:06,Returning,Mobile Web,Registered Login,Order Confirmed,None,Yes,3,33.37,51,36,106,66,259,No,Google Pay,ORD16086,31.9
+S00305,U7649,1/15/2025,22:14:33,New,iOS App,Registered Login,Order Confirmed,None,Yes,2,33.85,223,56,115,103,497,No,Credit Card,ORD42975,34.07
+S00306,U4062,1/16/2025,12:13:09,Returning,Mobile Web,Registered Login,Browse Menu,Browse Menu,No,2,38.02,147,0,49,0,196,No,,,
+S00307,U3639,1/17/2025,8:08:36,New,iOS App,Guest Checkout,Order Confirmed,None,Yes,3,56.53,276,71,50,46,443,No,PayPal,ORD63857,53.89
+S00308,U8723,1/18/2025,9:13:28,Returning,Android App,Registered Login,Order Confirmed,None,Yes,3,69.87,294,61,116,92,563,No,Google Pay,ORD96736,74.98
+S00309,U2127,1/19/2025,13:59:29,New,Android App,Guest Checkout,Enter Delivery Details,Enter Delivery Details,No,2,50.12,291,43,30,0,364,No,,,
+S00310,U2925,1/20/2025,16:32:48,Returning,iOS App,Guest Checkout,Order Confirmed,None,Yes,5,54.16,106,87,26,42,261,No,PayPal,ORD15116,58.58
+S00311,U4759,1/21/2025,19:33:27,Returning,Android App,Guest Checkout,Payment,Payment,No,6,51.84,297,63,43,0,403,No,,,
+S00312,U2373,1/22/2025,11:58:54,Returning,Android App,Registered Login,Enter Delivery Details,Enter Delivery Details,No,6,47.01,247,27,72,0,346,No,,,
+S00313,U5155,1/23/2025,9:09:27,New,iOS App,Registered Login,Order Confirmed,None,Yes,6,61.09,297,25,106,20,448,No,Credit Card,ORD51405,61.78
+S00314,U6641,1/24/2025,12:19:36,Returning,Android App,Registered Login,Order Confirmed,None,Yes,6,35.22,134,62,110,120,426,No,Credit Card,ORD83281,36.39
+S00315,U1852,1/25/2025,13:51:35,New,Mobile Web,Registered Login,View Cart,View Cart,No,6,71.64,81,37,105,0,223,No,,,
+S00316,U7296,1/26/2025,17:02:46,New,Mobile Web,Guest Checkout,View Cart,View Cart,No,5,37.72,62,43,34,0,139,No,,,
+S00317,U4795,1/27/2025,17:32:33,New,Mobile Web,Registered Login,Order Confirmed,None,Yes,2,51.25,254,11,65,104,434,No,PayPal,ORD35525,48.95
+S00318,U2477,1/28/2025,19:04:58,Returning,iOS App,Guest Checkout,Order Confirmed,None,Yes,2,14.72,171,61,42,105,379,No,PayPal,ORD77861,14.02
+S00319,U5821,1/29/2025,16:04:32,New,Desktop Web,Guest Checkout,Order Confirmed,None,Yes,3,23.93,129,68,79,71,347,No,Credit Card,ORD63363,24.55
+S00320,U8517,1/30/2025,11:48:21,New,Desktop Web,Registered Login,Enter Delivery Details,Enter Delivery Details,No,5,25.5,256,58,112,0,426,No,,,
+S00321,U5706,1/31/2025,21:16:15,New,iOS App,Guest Checkout,Order Confirmed,None,Yes,1,34.25,142,39,71,60,312,No,Debit Card,ORD80208,32.59
+S00322,U4271,2/1/2025,11:31:47,New,iOS App,Guest Checkout,Order Confirmed,None,Yes,2,40.44,211,37,77,93,418,No,Google Pay,ORD99536,44.06
+S00323,U9871,2/2/2025,8:48:54,New,iOS App,Registered Login,Order Confirmed,None,Yes,2,64.19,212,29,139,33,413,Yes,Credit Card,ORD96956,65.72
+S00324,U3101,2/3/2025,12:25:14,Returning,iOS App,Registered Login,Payment,Payment,No,5,66.33,281,33,137,0,451,No,,,
+S00325,U2650,2/4/2025,11:24:37,Returning,Desktop Web,Guest Checkout,Order Confirmed,None,Yes,3,34.98,119,68,27,109,323,No,Debit Card,ORD11103,33.29
+S00326,U3947,2/5/2025,14:17:28,New,iOS App,Guest Checkout,Order Confirmed,None,Yes,3,40.1,205,56,31,83,375,No,Debit Card,ORD58799,40.29
+S00327,U3203,2/6/2025,10:26:31,New,iOS App,Guest Checkout,Order Confirmed,None,Yes,3,62.06,251,58,32,38,379,No,Apple Pay,ORD71995,66.46
+S00328,U6483,2/7/2025,18:06:28,New,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,5,65.65,54,60,26,108,248,Yes,Credit Card,ORD43330,67.06
+S00329,U9363,2/8/2025,12:22:20,New,Desktop Web,Guest Checkout,Order Confirmed,None,Yes,1,36.17,209,87,32,93,421,No,PayPal,ORD32877,39.68
+S00330,U6629,2/9/2025,9:05:10,Returning,iOS App,Registered Login,Order Confirmed,None,Yes,4,50.68,104,31,121,63,319,No,PayPal,ORD63054,54.6
+S00331,U4844,2/10/2025,8:08:46,New,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,4,26.89,257,56,67,95,475,No,Debit Card,ORD31930,26.29
+S00332,U7387,2/11/2025,17:09:05,New,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,4,15.79,62,70,55,26,213,Yes,Debit Card,ORD20911,15.25
+S00333,U5463,2/12/2025,21:34:59,New,Android App,Guest Checkout,Order Confirmed,None,Yes,5,64.33,44,14,62,65,185,No,Debit Card,ORD72410,65.62
+S00334,U6044,2/13/2025,20:05:28,New,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,5,39.12,252,77,60,101,490,No,Google Pay,ORD73131,40.33
+S00335,U5799,2/14/2025,20:27:51,Returning,iOS App,Guest Checkout,Order Confirmed,None,Yes,2,31.69,270,78,20,108,476,No,Google Pay,ORD72530,31.53
+S00336,U9464,2/15/2025,14:40:15,Returning,Android App,Guest Checkout,Order Confirmed,None,Yes,5,37.84,157,30,65,114,366,No,Apple Pay,ORD38913,37.44
+S00337,U8418,2/16/2025,18:29:39,New,iOS App,Registered Login,Enter Delivery Details,Enter Delivery Details,No,4,21.4,65,33,57,0,155,No,,,
+S00338,U6601,2/17/2025,8:31:13,New,iOS App,Registered Login,Order Confirmed,None,Yes,5,10.45,82,46,74,36,238,No,Apple Pay,ORD40514,10.07
+S00339,U7251,2/18/2025,21:16:52,New,Desktop Web,Guest Checkout,Order Confirmed,None,Yes,1,30.79,104,17,37,119,277,No,PayPal,ORD33803,30.14
+S00340,U8746,2/19/2025,16:42:13,New,iOS App,Guest Checkout,View Cart,View Cart,No,6,74.63,131,68,67,0,266,No,,,
+S00341,U1853,2/20/2025,11:23:56,Returning,iOS App,Registered Login,Browse Menu,Browse Menu,No,5,43.37,159,0,101,0,260,No,,,
+S00342,U2466,2/21/2025,10:23:49,Returning,Android App,Guest Checkout,Order Confirmed,None,Yes,2,61.42,91,60,70,51,272,Yes,Credit Card,ORD72294,64.69
+S00343,U4812,2/22/2025,9:08:31,Returning,Android App,Guest Checkout,Payment,Payment,No,6,12.95,212,29,64,0,305,No,,,
+S00344,U8168,2/23/2025,22:02:31,New,Mobile Web,Registered Login,View Cart,View Cart,No,2,10.4,223,55,132,0,410,Yes,,,
+S00345,U5314,2/24/2025,15:18:52,New,iOS App,Guest Checkout,Order Confirmed,None,Yes,3,30.35,269,45,75,96,485,No,PayPal,ORD19027,31.25
+S00346,U9151,2/25/2025,11:33:43,Returning,Android App,Guest Checkout,Order Confirmed,None,Yes,2,67.26,216,89,35,61,401,No,Apple Pay,ORD80642,72.16
+S00347,U7366,2/26/2025,9:02:36,Returning,Android App,Guest Checkout,Order Confirmed,None,Yes,1,43.52,64,15,73,36,188,Yes,Credit Card,ORD24031,44.51
+S00348,U7814,2/27/2025,18:03:23,New,Android App,Guest Checkout,Order Confirmed,None,Yes,2,48.98,66,11,79,46,202,No,Google Pay,ORD20480,49.97
+S00349,U5075,2/28/2025,11:12:33,Returning,Android App,Registered Login,Order Confirmed,None,Yes,6,13.64,185,19,160,47,411,No,Credit Card,ORD40279,14.05
+S00350,U3591,3/1/2025,16:21:42,Returning,Mobile Web,Registered Login,Order Confirmed,None,Yes,1,59.56,213,68,129,105,515,No,Credit Card,ORD33644,61.5
+S00351,U5162,3/2/2025,20:35:59,Returning,Android App,Registered Login,Order Confirmed,None,Yes,3,64.75,241,65,145,112,563,No,Credit Card,ORD81516,63.59
+S00352,U6159,3/3/2025,11:13:54,Returning,Android App,Registered Login,Payment,Payment,No,5,10.07,99,48,40,0,187,No,,,
+S00353,U7014,3/4/2025,10:08:16,New,Mobile Web,Registered Login,Account Login/Register,Account Login/Register,No,5,70.1,109,22,44,0,175,No,,,
+S00354,U5921,3/5/2025,9:38:41,Returning,iOS App,Guest Checkout,Order Confirmed,None,Yes,5,69.57,69,51,70,81,271,Yes,Apple Pay,ORD85527,74.64
+S00355,U7266,3/6/2025,22:00:40,New,iOS App,Registered Login,Order Confirmed,None,Yes,3,31.95,252,63,159,35,509,No,Credit Card,ORD95561,34.42
+S00356,U5747,3/7/2025,9:14:27,Returning,Android App,Guest Checkout,Order Confirmed,None,Yes,5,55.04,108,16,63,113,300,No,Google Pay,ORD88005,57.04
+S00357,U4245,3/8/2025,20:08:30,Returning,Android App,Guest Checkout,Account Login/Register,Account Login/Register,No,3,14.61,286,65,69,0,420,No,,,
+S00358,U7776,3/9/2025,9:07:42,New,Android App,Guest Checkout,Account Login/Register,Account Login/Register,No,2,13.72,250,51,63,0,364,No,,,
+S00359,U4271,3/10/2025,22:52:14,Returning,iOS App,Guest Checkout,Enter Delivery Details,Enter Delivery Details,No,2,74.18,256,89,29,0,374,No,,,
+S00360,U9814,3/11/2025,13:13:47,New,Desktop Web,Guest Checkout,Order Confirmed,None,Yes,1,25.03,105,46,20,63,234,No,Credit Card,ORD68990,25.55
+S00361,U5444,3/12/2025,20:44:39,New,iOS App,Guest Checkout,Order Confirmed,None,Yes,6,74.48,39,58,57,104,258,No,Credit Card,ORD17878,73.93
+S00362,U7237,3/13/2025,18:24:14,New,iOS App,Guest Checkout,Enter Delivery Details,Enter Delivery Details,No,6,32.76,85,12,38,0,135,No,,,
+S00363,U9673,3/14/2025,8:15:59,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,2,22.12,264,81,158,0,503,No,,,
+S00364,U5590,3/15/2025,21:01:35,Returning,iOS App,Guest Checkout,Order Confirmed,None,Yes,3,32.44,184,40,52,55,331,No,PayPal,ORD60747,35.15
+S00365,U3270,3/16/2025,16:08:13,New,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,4,43.36,146,63,35,93,337,Yes,Google Pay,ORD89346,43.33
+S00366,U2939,3/17/2025,16:34:46,New,Desktop Web,Guest Checkout,Order Confirmed,None,Yes,6,68.3,99,65,78,118,360,Yes,Google Pay,ORD30715,68.14
+S00367,U5485,3/18/2025,22:40:59,New,Mobile Web,Guest Checkout,Payment,Payment,No,4,72.43,185,66,67,0,318,No,,,
+S00368,U8808,3/19/2025,8:22:05,Returning,iOS App,Registered Login,Account Login/Register,Account Login/Register,No,3,48.96,148,86,69,0,303,No,,,
+S00369,U4323,3/20/2025,14:14:47,New,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,4,41.43,100,30,32,48,210,Yes,Apple Pay,ORD11967,45.11
+S00370,U7232,3/21/2025,17:47:52,New,Desktop Web,Guest Checkout,View Cart,View Cart,No,3,66.2,156,64,45,0,265,No,,,
+S00371,U7347,3/22/2025,14:47:02,New,Android App,Guest Checkout,Order Confirmed,None,Yes,6,66.79,49,76,26,77,228,No,Google Pay,ORD42207,68.65
+S00372,U8400,3/23/2025,15:53:41,New,iOS App,Registered Login,Order Confirmed,None,Yes,3,60.05,176,69,61,74,380,No,Google Pay,ORD77760,65.19
+S00373,U4308,3/24/2025,17:57:45,Returning,Mobile Web,Registered Login,Enter Delivery Details,Enter Delivery Details,No,2,34.93,195,67,43,0,305,Yes,,,
+S00374,U9383,3/25/2025,16:45:24,Returning,Android App,Guest Checkout,Add to Cart,Add to Cart,No,6,17.14,88,67,60,0,215,No,,,
+S00375,U7874,3/26/2025,20:45:03,Returning,Android App,Registered Login,Payment,Payment,No,5,66.5,106,30,151,0,287,Yes,,,
+S00376,U9169,3/27/2025,8:29:31,New,Android App,Guest Checkout,Browse Menu,Browse Menu,No,2,72.38,31,0,59,0,90,No,,,
+S00377,U4401,3/28/2025,18:35:52,New,Android App,Registered Login,Order Confirmed,None,Yes,6,40.39,239,66,50,96,451,No,Credit Card,ORD81741,40.06
+S00378,U3906,3/29/2025,12:39:42,Returning,iOS App,Guest Checkout,Order Confirmed,None,Yes,1,53.01,182,52,78,31,343,Yes,Debit Card,ORD33363,51.64
+S00379,U5496,3/30/2025,10:07:44,Returning,iOS App,Registered Login,Add to Cart,Add to Cart,No,4,63.13,248,80,48,0,376,No,,,
+S00380,U9608,3/31/2025,21:20:16,New,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,1,46.7,300,21,50,112,483,No,Google Pay,ORD47642,47.36
+S00381,U8616,4/1/2025,8:07:01,Returning,iOS App,Registered Login,Order Confirmed,None,Yes,5,57.12,284,73,143,43,543,No,Credit Card,ORD48074,62.65
+S00382,U9301,4/2/2025,9:19:19,New,iOS App,Registered Login,Order Confirmed,None,Yes,4,36.32,200,54,111,101,466,No,PayPal,ORD46913,35.89
+S00383,U3224,4/3/2025,20:02:41,Returning,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,6,46.54,44,32,32,62,170,No,Google Pay,ORD72797,50.61
+S00384,U9779,4/4/2025,18:20:35,New,Desktop Web,Guest Checkout,View Cart,View Cart,No,4,70.22,58,76,39,0,173,No,,,
+S00385,U7382,4/5/2025,21:10:36,New,Mobile Web,Guest Checkout,View Cart,View Cart,No,2,27.5,45,53,44,0,142,No,,,
+S00386,U4541,4/6/2025,15:53:19,New,Mobile Web,Registered Login,Add to Cart,Add to Cart,No,1,26.91,74,73,152,0,299,No,,,
+S00387,U9579,4/7/2025,22:30:46,Returning,Mobile Web,Guest Checkout,Payment,Payment,No,4,42.39,277,74,29,0,380,No,,,
+S00388,U1067,4/8/2025,21:33:07,Returning,Desktop Web,Registered Login,Payment,Payment,No,6,74.51,135,14,98,0,247,No,,,
+S00389,U4154,4/9/2025,11:20:12,New,Android App,Registered Login,Order Confirmed,None,Yes,4,67.68,82,76,138,104,400,No,Credit Card,ORD50913,70.78
+S00390,U5641,4/10/2025,12:09:45,Returning,Android App,Guest Checkout,Order Confirmed,None,Yes,2,19.38,88,11,59,91,249,No,Credit Card,ORD55916,20.01
+S00391,U8304,4/11/2025,10:45:38,Returning,Android App,Guest Checkout,Order Confirmed,None,Yes,4,12.34,44,70,77,106,297,Yes,Debit Card,ORD21287,12.51
+S00392,U8672,4/12/2025,20:58:44,Returning,iOS App,Guest Checkout,Enter Delivery Details,Enter Delivery Details,No,1,73.25,268,82,28,0,378,Yes,,,
+S00393,U8426,4/13/2025,21:56:20,New,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,2,71.52,103,88,36,66,293,No,Apple Pay,ORD97186,71.49
+S00394,U5949,4/14/2025,18:04:50,New,Android App,Guest Checkout,Order Confirmed,None,Yes,2,27.62,208,87,56,36,387,No,Debit Card,ORD24022,27.59
+S00395,U4869,4/15/2025,13:34:44,New,iOS App,Guest Checkout,Order Confirmed,None,Yes,2,73.27,226,18,41,46,331,No,PayPal,ORD67062,75.84
+S00396,U7208,4/16/2025,9:43:52,Returning,Desktop Web,Registered Login,Order Confirmed,None,Yes,4,16.54,267,51,111,32,461,No,Credit Card,ORD63188,15.89
+S00397,U8326,4/17/2025,14:39:36,New,iOS App,Guest Checkout,Payment,Payment,No,6,62.44,105,29,48,0,182,No,,,
+S00398,U3089,4/18/2025,16:25:54,New,iOS App,Guest Checkout,Enter Delivery Details,Enter Delivery Details,No,4,56.36,206,21,57,0,284,Yes,,,
+S00399,U7652,4/19/2025,13:45:24,New,Desktop Web,Guest Checkout,Order Confirmed,None,Yes,5,63.16,213,24,75,56,368,No,Credit Card,ORD87353,63.74
+S00400,U8974,4/20/2025,18:01:09,Returning,iOS App,Guest Checkout,Order Confirmed,None,Yes,5,34.37,214,63,29,56,362,No,Apple Pay,ORD27600,32.71
+S00401,U8373,4/21/2025,14:35:52,New,iOS App,Guest Checkout,View Cart,View Cart,No,4,67.97,247,89,31,0,367,No,,,
+S00402,U8889,4/22/2025,19:23:07,Returning,Android App,Guest Checkout,Order Confirmed,None,Yes,6,24.62,286,44,46,89,465,No,Credit Card,ORD14963,25.49
+S00403,U2279,4/23/2025,11:30:40,New,Android App,Guest Checkout,Enter Delivery Details,Enter Delivery Details,No,3,39.68,70,76,76,0,222,No,,,
+S00404,U3744,4/24/2025,20:18:18,New,iOS App,Registered Login,Order Confirmed,None,Yes,3,44.3,35,70,98,85,288,No,PayPal,ORD53452,44.88
+S00405,U1447,4/25/2025,12:51:47,New,iOS App,Registered Login,Add to Cart,Add to Cart,No,6,40.22,116,83,46,0,245,No,,,
+S00406,U3476,4/26/2025,10:58:37,Returning,iOS App,Guest Checkout,Add to Cart,Add to Cart,No,5,27.53,161,11,67,0,239,Yes,,,
+S00407,U9125,4/27/2025,21:09:53,New,iOS App,Guest Checkout,View Cart,View Cart,No,5,65.88,205,20,29,0,254,No,,,
+S00408,U7533,4/28/2025,8:10:29,Returning,Android App,Registered Login,Add to Cart,Add to Cart,No,6,64.55,57,43,136,0,236,No,,,
+S00409,U6172,4/29/2025,15:24:43,New,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,4,54.1,229,70,36,38,373,No,Debit Card,ORD47852,58.92
+S00410,U7408,4/30/2025,9:16:41,Returning,Desktop Web,Registered Login,Payment,Payment,No,4,49.28,169,52,74,0,295,No,,,
+S00411,U8306,5/1/2025,16:06:43,New,Mobile Web,Registered Login,Order Confirmed,None,Yes,2,43.31,122,50,110,21,303,No,Apple Pay,ORD11567,43.82
+S00412,U4027,5/2/2025,18:48:57,Returning,iOS App,Guest Checkout,Order Confirmed,None,Yes,1,12.74,141,86,60,35,322,No,Credit Card,ORD89257,12.35
+S00413,U7271,5/3/2025,12:49:03,Returning,Android App,Registered Login,Enter Delivery Details,Enter Delivery Details,No,3,59.77,195,42,60,0,297,No,,,
+S00414,U2740,5/4/2025,11:39:41,Returning,Desktop Web,Guest Checkout,Order Confirmed,None,Yes,4,13.57,132,88,45,42,307,No,Credit Card,ORD80861,14.46
+S00415,U7411,5/5/2025,10:44:21,Returning,iOS App,Registered Login,Order Confirmed,None,Yes,3,60.29,39,73,59,103,274,No,Google Pay,ORD97111,60.81
+S00416,U6463,5/6/2025,16:59:22,New,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,4,64.7,65,79,34,20,198,No,Apple Pay,ORD73185,62.64
+S00417,U4129,5/7/2025,16:02:24,Returning,Desktop Web,Guest Checkout,View Cart,View Cart,No,3,14.3,265,47,61,0,373,No,,,
+S00418,U9856,5/8/2025,14:04:50,New,Android App,Registered Login,Order Confirmed,None,Yes,1,67.41,254,34,57,24,369,No,Apple Pay,ORD87718,66.45
+S00419,U9791,5/9/2025,15:43:55,New,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,1,11.43,58,53,70,112,293,Yes,Credit Card,ORD95701,12
+S00420,U1818,5/10/2025,8:11:40,Returning,iOS App,Registered Login,View Cart,View Cart,No,1,40.09,53,41,129,0,223,No,,,
+S00421,U7586,5/11/2025,14:21:51,Returning,Android App,Registered Login,Browse Menu,Browse Menu,No,1,16.53,142,0,48,0,190,No,,,
+S00422,U4991,5/12/2025,16:10:28,New,Android App,Guest Checkout,Order Confirmed,None,Yes,2,59.43,118,52,24,35,229,No,Apple Pay,ORD32026,62.67
+S00423,U8798,5/13/2025,12:26:44,Returning,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,2,10.02,279,20,20,20,339,Yes,Credit Card,ORD95426,10.41
+S00424,U1074,5/14/2025,12:22:26,Returning,iOS App,Guest Checkout,Order Confirmed,None,Yes,2,70.9,49,86,31,111,277,No,Google Pay,ORD92207,76.14
+S00425,U8772,5/15/2025,20:09:43,Returning,Android App,Guest Checkout,Order Confirmed,None,Yes,3,65.93,289,38,49,118,494,No,Credit Card,ORD16955,64.55
+S00426,U3589,5/16/2025,22:34:11,New,iOS App,Guest Checkout,Add to Cart,Add to Cart,No,4,25.58,262,15,26,0,303,No,,,
+S00427,U7759,5/17/2025,11:06:15,Returning,Desktop Web,Guest Checkout,Account Login/Register,Account Login/Register,No,3,36.65,196,39,69,0,304,Yes,,,
+S00428,U3084,5/18/2025,12:12:21,Returning,Android App,Guest Checkout,Order Confirmed,None,Yes,4,18.56,262,32,44,67,405,Yes,Apple Pay,ORD92840,18.63
+S00429,U3784,5/19/2025,20:40:39,Returning,iOS App,Registered Login,View Cart,View Cart,No,2,59.17,142,47,117,0,306,Yes,,,
+S00430,U5060,5/20/2025,19:55:15,New,iOS App,Registered Login,View Cart,View Cart,No,2,48.03,266,45,41,0,352,No,,,
+S00431,U9701,5/21/2025,16:02:27,Returning,Desktop Web,Guest Checkout,Payment,Payment,No,1,36.56,52,15,50,0,117,No,,,
+S00432,U5994,5/22/2025,8:30:42,New,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,2,14.47,36,62,80,47,225,Yes,Credit Card,ORD94887,15.91
+S00433,U6454,5/23/2025,9:24:57,New,Mobile Web,Registered Login,Order Confirmed,None,Yes,4,39.6,100,61,63,67,291,No,Apple Pay,ORD10178,42.73
+S00434,U6963,5/24/2025,22:03:32,Returning,iOS App,Guest Checkout,Account Login/Register,Account Login/Register,No,2,60.98,71,89,76,0,236,No,,,
+S00435,U4437,5/25/2025,18:30:47,Returning,Android App,Guest Checkout,Order Confirmed,None,Yes,2,51.77,64,81,65,119,329,No,Google Pay,ORD41278,53.37
+S00436,U8405,5/26/2025,16:57:18,New,Android App,Guest Checkout,Order Confirmed,None,Yes,1,13.17,206,67,51,84,408,No,Credit Card,ORD79717,13.85
+S00437,U2791,5/27/2025,10:18:04,New,Mobile Web,Guest Checkout,Payment,Payment,No,2,67.86,264,21,25,0,310,No,,,
+S00438,U1351,5/28/2025,13:26:28,New,Android App,Guest Checkout,Account Login/Register,Account Login/Register,No,6,10.49,243,79,79,0,401,Yes,,,
+S00439,U9986,5/29/2025,19:33:53,Returning,Mobile Web,Guest Checkout,Account Login/Register,Account Login/Register,No,3,36.16,205,51,51,0,307,No,,,
+S00440,U5673,5/30/2025,10:45:34,New,Desktop Web,Guest Checkout,Order Confirmed,None,Yes,3,23.96,220,46,69,26,361,Yes,Credit Card,ORD31805,24.99
+S00441,U1568,5/31/2025,13:11:13,New,Mobile Web,Registered Login,Add to Cart,Add to Cart,No,2,16.71,192,83,56,0,331,No,,,
+S00442,U6427,6/1/2025,19:34:32,Returning,Android App,Guest Checkout,Order Confirmed,None,Yes,2,44.21,92,13,45,83,233,No,Google Pay,ORD51971,43.03
+S00443,U3284,6/2/2025,15:57:02,New,iOS App,Registered Login,Payment,Payment,No,5,53,256,53,128,0,437,Yes,,,
+S00444,U4206,6/3/2025,22:49:17,Returning,Android App,Registered Login,View Cart,View Cart,No,1,30.53,129,84,107,0,320,No,,,
+S00445,U6915,6/4/2025,8:58:42,New,Mobile Web,Guest Checkout,Payment,Payment,No,4,21.82,192,87,58,0,337,No,,,
+S00446,U5728,6/5/2025,14:51:28,New,Android App,Guest Checkout,Order Confirmed,None,Yes,3,31.75,187,67,75,91,420,Yes,Apple Pay,ORD68224,33.69
+S00447,U2083,6/6/2025,21:33:21,New,Android App,Registered Login,Add to Cart,Add to Cart,No,5,48.45,103,36,78,0,217,No,,,
+S00448,U1691,6/7/2025,12:35:31,Returning,Android App,Registered Login,View Cart,View Cart,No,5,39.49,100,35,63,0,198,No,,,
+S00449,U9059,6/8/2025,12:26:11,Returning,Android App,Registered Login,Order Confirmed,None,Yes,1,61.21,108,43,78,101,330,No,Debit Card,ORD95696,64.26
+S00450,U7114,6/9/2025,19:52:07,Returning,Mobile Web,Registered Login,Order Confirmed,None,Yes,1,48.52,215,84,101,92,492,No,Credit Card,ORD99903,49.56
+S00451,U2258,6/10/2025,12:33:40,Returning,iOS App,Registered Login,Order Confirmed,None,Yes,2,30.09,99,55,60,26,240,No,Debit Card,ORD56659,28.81
+S00452,U3243,6/11/2025,21:09:00,New,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,2,44.88,191,48,37,107,383,No,Debit Card,ORD80047,46.54
+S00453,U9612,6/12/2025,17:44:53,New,Android App,Guest Checkout,Add to Cart,Add to Cart,No,2,19.19,143,34,70,0,247,No,,,
+S00454,U6604,6/13/2025,17:33:48,New,Mobile Web,Registered Login,Order Confirmed,None,Yes,1,16.68,97,12,101,64,274,No,Debit Card,ORD67925,18.07
+S00455,U8065,6/14/2025,20:30:48,Returning,Mobile Web,Registered Login,Order Confirmed,None,Yes,6,18.39,146,49,56,46,297,Yes,Credit Card,ORD24643,17.68
+S00456,U4277,6/15/2025,11:37:57,Returning,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,4,16.84,159,15,24,58,256,No,Apple Pay,ORD26225,18.32
+S00457,U2119,6/16/2025,11:32:36,Returning,iOS App,Registered Login,Add to Cart,Add to Cart,No,5,31.95,112,74,139,0,325,No,,,
+S00458,U8777,6/17/2025,16:54:45,New,Android App,Registered Login,Payment,Payment,No,2,68.5,32,22,158,0,212,No,,,
+S00459,U9123,6/18/2025,9:33:08,Returning,Mobile Web,Registered Login,Order Confirmed,None,Yes,3,73.76,247,37,105,49,438,No,Apple Pay,ORD51193,71.44
+S00460,U4093,6/19/2025,12:54:27,New,iOS App,Registered Login,Order Confirmed,None,Yes,1,34.39,263,86,134,59,542,No,Apple Pay,ORD39605,35.53
+S00461,U2666,6/20/2025,14:44:37,New,Desktop Web,Registered Login,Order Confirmed,None,Yes,1,74.91,281,23,90,76,470,No,Apple Pay,ORD25626,72.78
+S00462,U6834,6/21/2025,20:41:25,New,iOS App,Guest Checkout,Order Confirmed,None,Yes,4,17.09,247,73,37,117,474,No,PayPal,ORD45779,18.17
+S00463,U2117,6/22/2025,19:03:53,New,Desktop Web,Registered Login,Order Confirmed,None,Yes,2,59.68,85,25,72,82,264,No,PayPal,ORD27643,56.96
+S00464,U9157,6/23/2025,15:12:18,New,Android App,Registered Login,Add to Cart,Add to Cart,No,5,50.12,69,76,138,0,283,No,,,
+S00465,U5965,6/24/2025,8:02:11,New,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,1,71.86,46,65,76,35,222,No,Debit Card,ORD59327,73.04
+S00466,U7189,6/25/2025,14:16:31,Returning,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,1,46.53,281,80,63,89,513,No,Debit Card,ORD30487,47.74
+S00467,U6855,6/26/2025,9:27:22,New,iOS App,Registered Login,Order Confirmed,None,Yes,5,11.97,217,54,143,114,528,No,Apple Pay,ORD91940,11.98
+S00468,U8551,6/27/2025,16:20:02,New,iOS App,Guest Checkout,Account Login/Register,Account Login/Register,No,6,13.31,186,24,41,0,251,Yes,,,
+S00469,U9138,6/28/2025,18:13:21,New,Desktop Web,Registered Login,Order Confirmed,None,Yes,6,39.99,41,50,88,93,272,No,PayPal,ORD74010,38.59
+S00470,U2506,6/29/2025,11:39:47,New,iOS App,Registered Login,Order Confirmed,None,Yes,4,22.31,68,78,67,56,269,No,Credit Card,ORD85172,22.54
+S00471,U6133,6/30/2025,14:42:34,Returning,iOS App,Guest Checkout,View Cart,View Cart,No,2,31.91,69,48,52,0,169,No,,,
+S00472,U8656,7/1/2025,18:52:47,Returning,Android App,Guest Checkout,Account Login/Register,Account Login/Register,No,1,50.43,294,33,56,0,383,No,,,
+S00473,U5919,7/2/2025,10:15:09,New,Android App,Registered Login,View Cart,View Cart,No,5,56.95,60,76,65,0,201,No,,,
+S00474,U3456,7/3/2025,14:15:07,New,Desktop Web,Guest Checkout,Payment,Payment,No,3,63.35,112,42,63,0,217,No,,,
+S00475,U1691,7/4/2025,10:41:54,New,iOS App,Guest Checkout,Order Confirmed,None,Yes,4,36.84,48,35,30,54,167,Yes,Credit Card,ORD46408,38.64
+S00476,U2976,7/5/2025,17:47:32,Returning,Desktop Web,Registered Login,Order Confirmed,None,Yes,3,66.22,238,56,125,104,523,No,Debit Card,ORD28423,65.25
+S00477,U4865,7/6/2025,20:47:47,New,Mobile Web,Registered Login,Order Confirmed,None,Yes,4,67.37,151,86,55,118,410,No,Debit Card,ORD86588,71.45
+S00478,U3374,7/7/2025,18:15:17,Returning,iOS App,Guest Checkout,Order Confirmed,None,Yes,4,25.77,58,72,54,67,251,No,Credit Card,ORD81531,26.12
+S00479,U6945,7/8/2025,12:40:44,Returning,iOS App,Guest Checkout,Payment,Payment,No,1,64.53,57,40,36,0,133,No,,,
+S00480,U7656,7/9/2025,18:20:56,New,Desktop Web,Guest Checkout,Order Confirmed,None,Yes,4,70.21,160,48,25,116,349,No,Credit Card,ORD31001,76.35
+S00481,U9973,7/10/2025,14:38:46,Returning,Mobile Web,Guest Checkout,Order Confirmed,None,Yes,6,36.25,200,64,76,32,372,No,Apple Pay,ORD76366,34.8
+S00482,U3585,7/11/2025,17:05:07,Returning,iOS App,Guest Checkout,Account Login/Register,Account Login/Register,No,6,17.97,235,35,60,0,330,No,,,
+S00483,U6367,7/12/2025,10:16:11,New,Mobile Web,Guest Checkout,Payment,Payment,No,6,36.07,193,67,50,0,310,No,,,
+S00484,U8576,7/13/2025,11:58:05,Returning,iOS App,Guest Checkout,Payment,Payment,No,5,23.81,41,81,61,0,183,No,,,
+S00485,U9096,7/14/2025,22:29:52,New,iOS App,Guest Checkout,Order Confirmed,None,Yes,5,26.16,75,57,30,92,254,Yes,Apple Pay,ORD67037,27.89
+S00486,U4102,7/15/2025,11:52:18,Returning,Desktop Web,Guest Checkout,Add to Cart,Add to Cart,No,6,41.61,96,65,74,0,235,No,,,
+S00487,U3182,7/16/2025,9:00:30,New,iOS App,Guest Checkout,Add to Cart,Add to Cart,No,4,68.87,219,84,63,0,366,No,,,
+S00488,U1745,7/17/2025,13:38:42,Returning,iOS App,Registered Login,Order Confirmed,None,Yes,4,57.57,161,19,52,91,323,Yes,Debit Card,ORD40781,58.76
+S00489,U9690,7/18/2025,10:05:20,New,iOS App,Guest Checkout,Order Confirmed,None,Yes,3,17.72,51,84,31,53,219,Yes,Debit Card,ORD54456,19.17
+S00490,U6169,7/19/2025,14:57:10,Returning,iOS App,Guest Checkout,Order Confirmed,None,Yes,3,58.35,250,46,77,53,426,No,Apple Pay,ORD44571,59.96
+S00491,U8653,7/20/2025,12:10:45,Returning,Desktop Web,Registered Login,Enter Delivery Details,Enter Delivery Details,No,1,21.46,57,39,63,0,159,Yes,,,
+S00492,U3757,7/21/2025,12:11:53,New,Android App,Guest Checkout,Order Confirmed,None,Yes,6,46.01,264,73,27,112,476,No,Credit Card,ORD22265,45.12
+S00493,U2998,7/22/2025,8:18:43,New,Mobile Web,Registered Login,Order Confirmed,None,Yes,1,43.71,122,63,157,29,371,No,Debit Card,ORD22360,47.34
+S00494,U3118,7/23/2025,15:20:46,New,iOS App,Guest Checkout,Order Confirmed,None,Yes,1,14.34,275,68,60,54,457,No,Credit Card,ORD15747,15.03
+S00495,U7535,7/24/2025,11:49:55,New,iOS App,Registered Login,Enter Delivery Details,Enter Delivery Details,No,5,71.82,225,21,91,0,337,No,,,
+S00496,U2574,7/25/2025,17:08:22,Returning,Android App,Guest Checkout,Order Confirmed,None,Yes,6,58.66,108,25,39,82,254,No,Apple Pay,ORD50645,63.68
+S00497,U4673,7/26/2025,16:21:29,New,Desktop Web,Guest Checkout,Order Confirmed,None,Yes,5,48.61,76,64,71,67,278,No,Debit Card,ORD65838,46.86
+S00498,U5921,7/27/2025,10:43:57,Returning,Android App,Registered Login,Account Login/Register,Account Login/Register,No,3,39.89,70,71,78,0,219,Yes,,,
+S00499,U9248,7/28/2025,17:05:49,Returning,iOS App,Guest Checkout,Order Confirmed,None,Yes,1,42.88,291,64,46,32,433,No,Apple Pay,ORD43211,43.02
+S00500,U4066,7/29/2025,12:21:58,New,iOS App,Guest Checkout,Order Confirmed,None,Yes,4,11.98,243,48,40,95,426,No,Apple Pay,ORD68975,12.5
