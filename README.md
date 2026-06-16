@@ -1,4 +1,4 @@
-# Bites&Co — Food Delivery App Optimization
+# Moon Restaurant  — Food Delivery App Optimization
 
 **Role:** Business Analyst (Simulated)
 **Tools:** SQL (SQLite), Python, Lucidchart, Power BI, Jira
@@ -73,9 +73,9 @@ Top drop-off stage in As-Is: **Account Login/Register (142 sessions)**
 ```
 BA Project/
 ├── data/
-│   └── bitesandco_user_behavior.csv
+│   └── moonrestaurant_user_behavior.csv
 ├── database/
-│   └── bitesandco.db
+│   └── moonrestaurant.db
 ├── scripts/
 │   ├── database_setup.py
 │   ├── viewDropoff.py

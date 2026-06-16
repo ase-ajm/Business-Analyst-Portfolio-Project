@@ -3,7 +3,7 @@ import subprocess
 
 
 # Display the main menu
-print("===== Bites & Co Data =====")
+print("===== Moon Restaurant Data =====")
 
 print("1. View User Drop Off")
 print("2. View Abandonment rate (Before vs After)")

@@ -3,7 +3,7 @@ import os
 
 # Build absolute path to database so script works when called from any directory
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-db_path = os.path.join(BASE_DIR, "database", "bitesandco.db")
+db_path = os.path.join(BASE_DIR, "database", "moonrestaurant.db")
 
 connection = sqlite3.connect(db_path)
 cursor = connection.cursor()
@@ -11,12 +11,12 @@ cursor = connection.cursor()
 cursor.execute("""
 SELECT 
 CASE
-    WHEN substr(session_date, -4) < '2025' THEN 'AS-IS'
-    ELSE 'TO-BE'
+    WHEN substr(session_date, -4) < '2025' THEN 'Before Guest Checkout'
+    ELSE 'After Guest Checkout'
 END AS period,
 COUNT(*) as total_sessions,
 COUNT(CASE WHEN completed_order = 'Yes' THEN 1 END) as completed_orders
-FROM bitesandco
+FROM moonrestaurant
 GROUP BY period
 ORDER BY total_sessions DESC;
 
